@@ -1,0 +1,49 @@
+* {background-color: rgb(31, 3, 57);}
+h1 {text-align: center;
+    margin: 1em;
+    color: bisque;
+    font-size: 80px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+#pagelinks {display: flex;
+            flex-direction: column;
+            font-size: 30px;
+            width: 90%;}
+        
+main {display: flex;}
+
+body {color:papayawhip;
+        font-family:'Times New Roman', Times, serif ;
+        font-size: 22px;
+     }
+
+#aboutme {font-size: 40px;}
+
+#contactinfo {margin-top: 10%;
+             margin-left: 31%;
+             }
+
+
+#pics {margin-left: 40px;
+      display: grid;
+      grid-template-columns: 30% 30% 30%;
+      grid-gap: 10px;
+      }
+
+#listofskills {font-size: 40px;
+               margin-top: 40px;}
+
+.skills {font-size: 30px;
+        margin-top: 15px; 
+        margin-left: 100px;}
+
+h2 {font-size: 40px;}        
+
+#projects {display: grid;
+            margin-left: 50px;
+            grid-template-columns: 40% 40%;
+            grid-gap: 10px}
+
+footer {margin-top: 100px;
+        text-align: center;
+        color:beige;}
